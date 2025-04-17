@@ -1,0 +1,8 @@
+body, .navbar, .tab-pane, .shiny-input-container, .shiny-output-error, .shiny-output-error-validation {
+    color: lightgrey !important;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+    color: lightgrey !important;
+}
